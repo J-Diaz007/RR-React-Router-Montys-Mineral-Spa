@@ -1,9 +1,9 @@
 
 import './App.css';
 
-import Home from './components/Home'
-import About from './components/About'
-import Packages from './components/Packages'
+import Home from './Components/Home'
+import About from './Components/About'
+import Packages from './Components/Packages'
 
 import { BrowserRouter as Router, Link, Routes, Route } from 'react-router-dom'
 
